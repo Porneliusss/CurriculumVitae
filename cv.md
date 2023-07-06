@@ -1,12 +1,10 @@
 # Kirill Isakov
 <img src="https://github.com/Porneliusss/CurriculumVitae/assets/138559214/f5cfa802-51ee-4626-a295-1149e1c65465" width="300" height="300" /><br>
 
-********** 
-> ##### Contact information:
-* [[GitHub](https://github.com/porneliusss) 
+#### Contact information:
+* [GitHub](https://github.com/porneliusss) 
 * [Vk](https://vk.com/llliixxx)
-- Email: isakovkirill123@gmail.com
-- Phone: +375333676908
+* Email: isakovkirill123@gmail.com
 
 # About me
 I am a second-year computer science student. Live in Belarus.
@@ -34,7 +32,7 @@ to study both front-end and back-end. Although I haven't had any formal work exp
 
 ## Code example
 Working with API (C#)
-```
+```csharp
 using System;
 using System.Net.Http;
 using System.Threading.Tasks;
@@ -64,7 +62,7 @@ public class Program
 ```
 
 Working with files (C++)
-```
+```cpp
 #include <iostream>
 #include <fstream>
 #include <string>
