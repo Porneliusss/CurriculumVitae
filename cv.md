@@ -1,4 +1,5 @@
 # Kirill Isakov
+<img src="https://github.com/Porneliusss/CurriculumVitae/assets/138559214/f5cfa802-51ee-4626-a295-1149e1c65465" width="300" height="300" /><br>
 
 ********** 
 > ##### Contact information:
